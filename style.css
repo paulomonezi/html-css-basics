@@ -1,0 +1,31 @@
+html{
+    font-size: 20px;
+    font-family: sans-serif, 'Times New Roman';
+}
+header{
+    
+    padding: 10px;
+    font-size: 1.2rem;
+}
+
+
+th.fashion{
+    background-color:#BB86FC;
+    color: #FFF;
+    font-size: 1.2rem;
+    padding: 10px;
+
+}
+
+th.eletronics{
+    background-color: #00C4B4;
+    color: #FFF;
+    font-size: 1.2rem;
+    padding: 10px;
+}
+
+td{
+    background-color: #424250;
+    color: #FFF;
+    padding: 8px;
+}
